@@ -2,7 +2,7 @@
 
 ## Goal
 
-Demonstrate the basic structure of a Python package.
+Demonstrate the basic structure of a Python package using a Pig Latin converter.
 
 ## Installation
 
