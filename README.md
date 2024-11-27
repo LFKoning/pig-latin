@@ -11,7 +11,7 @@ Demonstrate the basic structure of a Python package.
 If you just want to use this project, you can simply install it with:
 
 ```shell
-python -m pip install git+https://github.com/<username>/demo-package
+python -m pip install git+https://github.com/LFKoning/pig-latin
 ```
 
 This will install the package and all of its dependencies into your current Anaconda
@@ -25,7 +25,7 @@ started.
 First clone the repository from GitHub to your personal folder on Workbench:
 
 ```shell
-git clone https://github.com/<username>/demo-package
+git clone https://github.com/LFKoning/pig-latin
 ```
 
 Finally, install the package and its dependencies using pip:
@@ -39,7 +39,8 @@ python -m pip install -e .[dev]
 To use the package, simply start a Python interpreter and import the package like so:
 
 ```python
-import demo_package
+>>> from pig_latin.latin import pig_latin
+>>> pig_latin("Hello World!")
 ```
 
 ## Contributing
@@ -54,4 +55,4 @@ documentation, feel free to e-mail the authors.
 
 This project is maintained by:
 
-1. <username> (<e-mail>)
+1. Lukas Koning (lfkoning@gmail.com)
