@@ -11,7 +11,7 @@ This is a Pig Latin converter that demonstrates the basic structure of a Python 
 If you just want to use this project, you can simply install it with:
 
 ```shell
-python -m pip install git+https://github.com/<username>/pig-latin
+python -m pip install git+https://github.com/LFKoning/pig-latin
 ```
 
 This will install the package and all of its dependencies into your current Anaconda
