@@ -25,7 +25,7 @@ started.
 First clone the repository from GitHub to your personal folder on Workbench:
 
 ```shell
-git clone https://github.com/<username>/pig-latin
+git clone https://github.com/LFKoning/pig-latin
 ```
 
 Finally, install the package and its dependencies using pip:
@@ -55,4 +55,4 @@ documentation, feel free to e-mail the authors.
 
 This project is maintained by:
 
-1. <username> (<e-mail>)
+1. Lukas Koning (lfkoning@gmail.com)
